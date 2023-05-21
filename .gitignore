@@ -33,3 +33,4 @@ yarn-error.log*
 
 /graph-data.json
 /search-index.json
+posts/**
